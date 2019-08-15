@@ -56,4 +56,4 @@ buck-out/
 *.jsbundle
 
 # My own
-screen/AuthLoadingScreen.js
+screens/AuthLoadingScreen.js
